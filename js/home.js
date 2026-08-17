@@ -18,7 +18,7 @@ const projects = [
         'imgs/projeto1/8.png',  
         'imgs/projeto1/9.png',
     ],
-        img: '../imgs/projeto1/bg.png'
+        img: 'imgs/projeto1/bg.png'
     },
     {  
         name: 'Calendario e Tarefas',
@@ -44,19 +44,19 @@ const projects = [
         Link para repositório: <a target="_blank" href="https://github.com/leandros8/calendario-react">click aqui</a>
         `,
         prints: [
-            '../imgs/projeto2/1.png',
-            '../imgs/projeto2/2.png',
-            '../imgs/projeto2/3.png', 
-            '../imgs/projeto2/4.png',
-            '../imgs/projeto2/5.png',
-            '../imgs/projeto2/6.png',
-            '../imgs/projeto2/7.png',
-            '../imgs/projeto2/8.png',  
-            '../imgs/projeto2/9.png',
-            '../imgs/projeto2/10.png',
-            '../imgs/projeto2/11.png',
+            'imgs/projeto2/1.png',
+            'imgs/projeto2/2.png',
+            'imgs/projeto2/3.png', 
+            'imgs/projeto2/4.png',
+            'imgs/projeto2/5.png',
+            'imgs/projeto2/6.png',
+            'imgs/projeto2/7.png',
+            'imgs/projeto2/8.png',  
+            'imgs/projeto2/9.png',
+            'imgs/projeto2/10.png',
+            'imgs/projeto2/11.png',
         ],
-            img: '../imgs/projeto2/bg.png'
+            img: 'imgs/projeto2/bg.png'
     },
     {  
         name: 'Agencia Bold',
@@ -70,17 +70,17 @@ const projects = [
         <a target="_blank" href="https://github.com/leandros8/agencia-bold">click aqui</a>
         `,
         prints: [
-            '../imgs/projeto3/1.png',
-            '../imgs/projeto3/2.png',
-            '../imgs/projeto3/3.png', 
-            '../imgs/projeto3/4.png',
-            '../imgs/projeto3/5.png',
-            '../imgs/projeto3/6.png',
-            '../imgs/projeto3/7.png',
-            '../imgs/projeto3/8.png',  
-            '../imgs/projeto3/9.png',
+            'imgs/projeto3/1.png',
+            'imgs/projeto3/2.png',
+            'imgs/projeto3/3.png', 
+            'imgs/projeto3/4.png',
+            'imgs/projeto3/5.png',
+            'imgs/projeto3/6.png',
+            'imgs/projeto3/7.png',
+            'imgs/projeto3/8.png',  
+            'imgs/projeto3/9.png',
         ],
-            img: '../imgs/projeto3/bg.png'
+            img: 'imgs/projeto3/bg.png'
     },
     {  
         name: 'Jogo Super Mario',
@@ -94,10 +94,10 @@ const projects = [
         <a target="_blank" href="https://github.com/leandros8/super-mario">click aqui</a>
         `,
         prints: [
-            '../imgs/projeto4/1.gif',
-            '../imgs/projeto4/2.png',
+            'imgs/projeto4/1.gif',
+            'imgs/projeto4/2.png',
         ],
-            img: '../imgs/projeto4/bg.png'
+            img: 'imgs/projeto4/bg.png'
     },
     {  
         name: 'Rede Social',
@@ -119,12 +119,12 @@ const projects = [
         <a target="_blank" href="https://github.com/leandros8/rede-social">click aqui</a>
         `,
         prints: [
-            '../imgs/projeto5/1.png',
-            '../imgs/projeto5/2.png',
-            '../imgs/projeto5/3.png',
-            '../imgs/projeto5/4.png',
+            'imgs/projeto5/1.png',
+            'imgs/projeto5/2.png',
+            'imgs/projeto5/3.png',
+            'imgs/projeto5/4.png',
         ],
-            img: '../imgs/projeto5/bg.png'
+            img: 'imgs/projeto5/bg.png'
     },
     {  
         name: 'Mundo 3D',
@@ -139,12 +139,12 @@ const projects = [
         
         `,
         prints: [
-            '../imgs/projeto6/1.png',
-            '../imgs/projeto6/2.png',
-            '../imgs/projeto6/3.png',
-            '../imgs/projeto6/4.png',
+            'imgs/projeto6/1.png',
+            'imgs/projeto6/2.png',
+            'imgs/projeto6/3.png',
+            'imgs/projeto6/4.png',
         ],
-            img: '../imgs/projeto6/bg.png'
+            img: 'imgs/projeto6/bg.png'
     }
 ]
 
