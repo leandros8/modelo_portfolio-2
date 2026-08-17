@@ -1,12 +1,11 @@
 const projects = [
     {  
-        name: 'Portfólio Pessoal',
-        description: `Reunindo conhecimentos  que adquiri, montei este site de Portfólio Pessoal.
-        Este projeto foi feito com estrutura em <b>Html</b>, estilização em <b>Css</b>,  algumas funções e animações em <b>Javascript</b>, formulário de contato que envia email usando <b>Php</b>, desenvolvido com designer próprio e usando Media Queries para deixar-lo responsivo.
-        <br/><br/>
-        Link para projeto: <a href="https://leandrodev.com.br">click aqui</a>
-        <br/><br/>
-        Link para repositório: <a href="https://github.com/leandros8/pagina-pessoal">click aqui</a>
+        name: 'Lorem Ipsum',
+        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc interdum, erat eget sollicitudin iaculis, nunc velit mollis velit, vitae vestibulum sapien ante quis turpis. Vivamus felis ipsum, commodo quis dui in, convallis efficitur est. Aenean molestie bibendum dolor non eleifend.<br/>
+        <br/>
+        Link para projeto: <a target="_blank" href="https://leandros8.github.io/modelo_portfolio-2/">click aqui</a>
+        <br/>
+        Link para repositório: <a target="_blank" href="https://github.com/leandros8/modelo_portfolio-2">click aqui</a>
         `,
         prints: [
         '../imgs/projeto1/1.png',
@@ -18,7 +17,6 @@ const projects = [
         '../imgs/projeto1/7.png',
         '../imgs/projeto1/8.png',  
         '../imgs/projeto1/9.png',
-        '../imgs/projeto1/10.png',
     ],
         img: '../imgs/projeto1/bg.png'
     },
@@ -41,9 +39,9 @@ const projects = [
         * Interface fácil e leve de usar<br/>
         * Tarefas salvas em local storage do navegador, permanecendo mesmo com a atualização da página
         <br/><br/>
-        Link para projeto: <a href="https://leandros8.github.io/projeto-calendario-react/">click aqui</a>
-        <br/><br/>
-        Link para repositório: <a href="https://github.com/leandros8/projeto-calendario-react">click aqui</a>
+        Link para projeto: <a target="_blank" href="https://leandros8.github.io/calendario-react/">click aqui</a>
+        <br/>
+        Link para repositório: <a target="_blank" href="https://github.com/leandros8/calendario-react">click aqui</a>
         `,
         prints: [
             '../imgs/projeto2/1.png',
@@ -66,10 +64,10 @@ const projects = [
         Projeto suporta dispositivos móveis por meio da responsividade.
         
         <br/><br/>
-        Link para projeto: <a href="https://leandros8.github.io/projeto-agencia-bold/">click aqui</a>
-        <br/><br/>
+        Link para projeto: <a target="_blank" href="https://leandros8.github.io/agencia-bold/">click aqui</a>
+        <br/>
         Link para repositório: 
-        <a href="https://github.com/leandros8/projeto-agencia-bold">click aqui</a>
+        <a target="_blank" href="https://github.com/leandros8/agencia-bold">click aqui</a>
         `,
         prints: [
             '../imgs/projeto3/1.png',
@@ -90,10 +88,10 @@ const projects = [
         Joguinho do super mario feito com <b>Html</b>, <b>Css</b> e <b>Javascript</b>. Feito de forma simples e básico. Aperte spaço para começar e pular
         
         <br/><br/>
-        Link para projeto: <a href="https://leandros8.github.io/jogo-super-mario/">click aqui</a>
-        <br/><br/>
+        Link para projeto: <a target="_blank" href="https://leandros8.github.io/super-mario/">click aqui</a>
+        <br/>
         Link para repositório: 
-        <a href="https://github.com/leandros8/jogo-super-mario.git">click aqui</a>
+        <a target="_blank" href="https://github.com/leandros8/super-mario">click aqui</a>
         `,
         prints: [
             '../imgs/projeto4/1.gif',
@@ -115,10 +113,10 @@ const projects = [
         * Ver comentários<br/>
         * Comentar em outras postagens<br/>
         <br/>
-        Link para projeto: <a href="https://www.rede.leandrodev.com.br">click aqui</a>
-        <br/><br/>
+        Link para projeto: <a target="_blank" href="https://leandros8.github.io/rede-social/">click aqui</a>
+        <br/>
         Link para repositório: 
-        <a href="https://github.com/leandros8/instagram-clone">click aqui</a>
+        <a target="_blank" href="https://github.com/leandros8/rede-social">click aqui</a>
         `,
         prints: [
             '../imgs/projeto5/1.png',
@@ -128,17 +126,16 @@ const projects = [
         ],
             img: '../imgs/projeto5/bg.png'
     },
-
     {  
         name: 'Mundo 3D',
         description: `Projeto em desenvolvimento com <b>Html</b>, <b>Css</b>, <b>Javascript</b> e <b>Jquery</b>. Neste projeto você poderá explorar e construir coisas em uma espécie de mundo em 3D. Utilizei um matrix para desenvolver os objetos e a câmera do game. Estou desenvolvendo novos objetos e pretendo colocar imagens, mas por enquanto deixarei disponível para vocês acessarem como forma de demonstrar meus conhecimentos.
         <br/>
         </br>
         Link para o projeto:
-        <a href="https://leandros8.github.io/mundo-3d">Click aqui!</a>
-        <br/><br/>
-        Link para o projeto:
-        <a href="https://github.com/leandros8/mundo-3d">Click aqui!</a>
+        <a target="_blank" href="https://leandros8.github.io/mundo-3d">Click aqui!</a>
+        <br/>
+        Link para o portfolio:
+        <a target="_blank" href="https://github.com/leandros8/mundo-3d">Click aqui!</a>
         
         `,
         prints: [
